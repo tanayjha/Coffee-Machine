@@ -1,4 +1,4 @@
-# Dunzo-Assignment
+# Coffee-Machine-Assignment
 Coffee Machine assignment
 
 Language used: Scala
